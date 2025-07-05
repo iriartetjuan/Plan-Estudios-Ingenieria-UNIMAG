@@ -1,90 +1,35 @@
 [
   {
-    "Nombre": "Arquitectura",
-    "Link": "ARQ"
+    "Nombre": "Ingenieria Pesquera",
+    "Link": "INGPES"
   },
   {
-    "Nombre": "Construcción Civil",
-    "Link": "CONSTRU"
+    "Nombre": "Ingenieria Agronomica",
+    "Link": "INGAGR"
   },
   {
-    "Nombre": "Diseño de productos",
-    "Link": "IDP"
+    "Nombre": "Ingenieria de Sistemas",
+    "Link": "INGSIS"
   },
   {
-    "Nombre": "Ing. Civil",
-    "Link": "CIV"
+    "Nombre": "Ingenieria Ambiental y Sanitaria",
+    "Link": "INGAMB"
   },
   {
-    "Nombre": "Ing. Civil Ambiental",
-    "Link": "ICA"
+    "Nombre": "Ingenieria Civil",
+    "Link": "INGCIV"
   },
   {
-    "Nombre": "Ing. Civil de Minas",
-    "Link": "ICM"
+    "Nombre": "Ingenieria Electronica",
+    "Link": "INGELE"
   },
   {
-    "Nombre": "Ing. Civil Electrónica",
-    "Link": "ELO"
+    "Nombre": "Ingenieria Industrial",
+    "Link": "INGIND"
   },
   {
-    "Nombre": "Ing. Civil Eléctrica",
-    "Link": "ELI"
+    "Nombre": "Ingenieria Marino-Costera",
+    "Link": "INGMAR"
   },
-  {
-    "Nombre": "Ing. Comercial",
-    "Link": "ICOM"
-  },
-  {
-    "Nombre": "Lic. Física",
-    "Link": "FIS"
-  },
-  {
-    "Nombre": "Lic. en Astrofísica",
-    "Link": "AFI"
-  },
-  {
-    "Nombre": "Lic. en Química",
-    "Link": "QUI"
-  },
-  {
-    "Nombre": "Ing. Civil Informática",
-    "Link": "INF"
-  },
-  {
-    "Nombre": "Ing. Aviación Comercial",
-    "Link": "IAC"
-  },
-  {
-    "Nombre": "Ing. Civil Industrial",
-    "Link": "ICI"
-  },
-  {
-    "Nombre": "Ing. Civil Matemática",
-    "Link": "MAT"
-  },
-  {
-    "Nombre": "Ing. Civil Mecánica",
-    "Link": "MEC"
-  },
-  {
-    "Nombre": "Ing. Civil Metalúrgica",
-    "Link": "MET"
-  },
-  {
-    "Nombre": "Ing. Civil Química",
-    "Link": "ICQ"
-  },
-  {
-    "Nombre": "Ing. Civil Telemática",
-    "Link": "TEL"
-  },
-  {
-    "Nombre": "Ingeniería en Informática",
-    "Link": "INGINF"
-  },
-  {
-    "Nombre": "Ingeniería en Biotecnología",
-    "Link": "IBT"
   }
 ]
