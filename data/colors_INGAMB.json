@@ -1,0 +1,15 @@
+{
+    "FUND":["#9e0000","Fundamentación"],
+    "SDAL":["#85c1e9","Segunda Lengua"],
+    "MATH":["#581852","Ciencias Matemáticas"],
+    "FISC":["#fec200","Ciencias Físicas"],
+    "CHEM":["#1a4d17","Ciencias Químicas"]
+    "BIOL":["#409212","Ciencias Biológicas"]  
+    "STAT":["#236491","Ciencias Estadísticas"]
+    "COMP":["#bd7ec4","Formación Complementaria"]
+    "INVG":["#aab7b8","Formación Investigativa"]
+    "GEAM":["#235f3b","Gestión Ambiental"]
+    "DIAM":["#002060","Dignóstico Ambiental"]
+    "SANM":["#2487ca","Saneamiento básico"]
+    "ELEC":["#d97405","Electivas de Profundización"]
+}
