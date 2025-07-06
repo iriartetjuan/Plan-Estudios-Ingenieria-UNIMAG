@@ -1,0 +1,14 @@
+{
+    "FUND":["#9e0000","Fundamentación"],
+    "SDAL":["#85c1e9","Segunda Lengua"],
+    "MATH":["#581852","Ciencias Matemáticas"],
+    "FISC":["#fec200","Ciencias Físicas"],
+    "CHEM":["#1a4d17","Ciencias Químicas"]
+    "BIOL":["#409212","Ciencias Biológicas"]  
+    "STAT":["#236491","Ciencias Estadísticas"]
+    "COMP":["#bd7ec4","Formación Complementaria"]
+    "INVG":["#aab7b8","Formación Investigativa"]
+    "ALIM":["#235f3b","Alimentos"]
+    "PESQ":["#002060","Pesquerías"]
+    "AQUA":["#2487ca","Acuicultura"]
+}
