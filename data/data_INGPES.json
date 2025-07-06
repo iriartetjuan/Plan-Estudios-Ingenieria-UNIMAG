@@ -1,0 +1,85 @@
+{
+  "s1": [
+    ["Biología", "01011305", 4, "BIOL"],
+    ["Cálculo Diferencial", "01011301", 4, "MATH"],
+    ["Dibujo para Ingeniería", "01011304", 2, "FUND"],
+    ["General English I", "01011307", 2, "SDAL"],
+    ["Introducción a la Ingeniería Pesquera", "01011303", 2, "COMP"]
+    ["Procesos Lectores y Escrituriales", "01011306", 2, "FUND"]
+    ["Razonamiento y Representación Matemática", "01011302", 2, "FUND"]
+  ],
+  "s2": [
+    ["Biología de Recursos Acuáticos", "02011309", 3, "BIOL", ["01011305"]],
+    ["Cálculo Integral", "02011308", 4, "MATH", ["01011301"]],
+    ["Expresión Oral y Argumentación", "0211311", 2, "FUND"],
+    ["General English II", "02011313", 2, "SDAL"],
+    ["Fisica Mecanica", "03011315", 4, "PHYS"]
+    ["Química General", "02011310", 4, "CHEM"]
+  ],
+  "s3": [
+    ["Calor y Ondas", "04011321", 4, "PHYS"],
+    ["Ecuaciones Diferenciales", "03011314", 3, "MATH"],
+    ["Estatica", "0411323", 3, "PHYS"],
+    ["General English III", "03011320", 2, "SDAL"],
+    ["Probabilidad y Estadística", "02011312", 3, "STAT"]
+    ["Química Orgánica", "03011316", 4, "CHEM"]
+  ],
+  "s4": [
+    ["Diseno y Prototipado", "03011319", 2, "INVG"],
+    ["Ecología Acuática", "03011317", 2, "BIOL"],
+    ["Electricidad y Magnetismo", "0411327", 4, "PHYS"],
+    ["General English IV", "04011326", 2, "SDAL"],
+    ["Estadística Inferencial", "04011325", 3, "STAT"]
+    ["Termodinamica", "04011328", 3, "PHYS"],
+    ],
+  "s5": [
+    ["Biología Pesquera", "05011330", 3, "STAT"],
+    ["Bioquímica", "04011324", 4, "CHEM"],
+    ["Cultivo de Moluscos", "0511332", 2, "AQUA"],
+    ["General English V", "06011338", 2, "SDAL"],
+    ["Embarcaciones Pesqueras", "05011331", 3, "PESQ"]
+    ["Mecánica de Fluidos", "05011329", 4, "PHYS"], 
+  ],
+  "s6": [
+    ["Bromatología", "06011336", 3, "CHEM"],
+    ["Cátedra Global", "03011324", 2, "FUND"],
+    ["Cultivo de Crustaceos", "06113333", 2, "AQUA"],
+    ["Evaluación de Recursos Pesqueros", "06011334", 2, "STAT"],
+    ["Limnología", "05011338", 2, "BIOL"]
+    ["Metodología de la Investigación", "05011339", 2, "INVG"],
+    ["Navegación", "05011337", 2, "PESQ"]
+    ["Operaciones Unitarias", "05011339", 2, "ALIM"],
+  ],
+  "s7": [
+    ["Electiva de Profundización I", "07011347", 2, "ELEC"],
+    ["Formación Humanística y Ciudadana", "07011346", 2, "FUND"],
+    ["Genetica Aplicada a la Acuicultura", "0711342", 3, "AQUA"],
+    ["Ingeniería de Artes Pesca I", "07011342", 2, "PESQ"],
+    ["Microbiología", "07011344", 3, "ALIM"]
+    ["Propuesta de Investigación en Ingeniería", "07011345", 2, "INVG"],
+    ["Tecnología de Productos Pesqueros I", "07011340", 2, "ALIM"]
+  ],
+  "s8": [
+    ["Economía Pesquera", "08011354", 2, "COMP"],
+    ["Electiva de Profundización II", "08011355", 2, "ELEC"],
+    ["Extensión y Desarrollo Rural", "0811353", 2, "COMP"],
+    ["Frio en la Industria Pesquera", "08011351", 3, "ALIM"],
+    ["Nutrición de Organismos Acuáticos", "08011349", 2, "AQUA"]
+    ["Proyecto Culminante de Diseno", "08011352", 2, "INVG"],
+    ["Tecnología de Productos Pesqueros II", "08011350", 3, "ALIM"]
+  ],
+  "s9": [
+    ["Cultivo de Peces", "09011356", 3, "AQUA"],
+    ["Etica en Ingeniería Pesquera", "09011362", 2, "COMP"],
+    ["Ingeniería de Proyectos", "0911361", 3, "COMP"],
+    ["Maquinaria Pesquera", "09011357", 3, "PESQ"],
+    ["Modelo y Simulación de Ecosistemas", "09011358", 3, "PESQ"]
+    ["Oceanografía Pesquera", "09011360", 3, "PESQ"],
+    ["Patología de Organismos Acuáticos", "09011359", 2, "AQUA"]
+  ],
+  "s10": [
+    ["Electiva de Profundización III", "10011365", 2, "ELEC"],
+    ["Instalaciones Acuicolas", "10011362", 3, "AQUA"],
+    ["Planta de Procesos Pesqueros", "10011361", 3, "ALIM"],
+  ]
+}
