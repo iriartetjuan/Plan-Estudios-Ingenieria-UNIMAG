@@ -1,0 +1,33 @@
+[
+  {
+    "Nombre": "Ingeniería Pesquera",
+    "Link": "INGPES"
+  },
+  {
+    "Nombre": "Ingeniería Agronomica",
+    "Link": "INGAGR"
+  },
+  {
+    "Nombre": "Ingeniería de Sistemas",
+    "Link": "INGSIS"
+  },
+  {
+    "Nombre": "Ingeniería Ambiental y Sanitaria",
+    "Link": "INGAMB"
+  },
+  {
+    "Nombre": "Ingeniería Civil",
+    "Link": "INGCIV"
+    },
+  {
+    "Nombre": "Ingeniería Electronica",
+    "Link": "INGELE"
+    },
+  {
+    "Nombre": "Ingeniería Industrial",
+    "Link": "INGIND"
+    },
+  {
+    "Nombre": "Ingeniería Marino-Costera",
+    "Link": "INGMAR"
+]
